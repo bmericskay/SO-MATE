@@ -11,11 +11,11 @@
 
 ### Environnements techniques
 
-* https://kepler.gl/
+* https://kepler.gl/{:target="_blank"}
 
-* https://umap.openstreetmap.fr/fr/
+* https://umap.openstreetmap.fr/fr/{:target="_blank"}
 
-* <a href="http://example.com/" target="_blank">Hello, world!</a>
+* 
 
 ## Données du TD 
 
