@@ -13,11 +13,17 @@
 
 * https://kepler.gl/{:target="_blank"}
 
-* https://umap.openstreetmap.fr/fr/{:target="_blank"}
-
-* 
 
 ## Données du TD 
+
+* Relais de postes (points)
+* Réseau des relais de postes (lignes)
+* Communes de Bretagnes
+* Cartographie du bruit à Rennes
+* Trajets BlaBlacar du 25 août 2019
+* Traces GPS d'oiseaux
+* Données DVF (transactions immobilières) du 44
+* Oeuvres d'art dans l'espace public à Rennes
 
 
 
