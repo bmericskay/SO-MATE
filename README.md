@@ -12,7 +12,7 @@
 ### Environnements techniques
 
 https://kepler.gl/
-umap.openstreetmap.fr/
+https://umap.openstreetmap.fr/fr/
 
 ## Données du TD 
 
