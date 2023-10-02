@@ -2,8 +2,11 @@
 
 ## Support de présentation
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/bmericskay/SO-MATE/main/Capture.PNG" alt="Description de l'image" width="600"/>
+</p>
 
- :fast_forward:[Support pdf](https://github.com/bmericskay/SO-MATE/blob/main/Visualisation%20de%20donn%C3%A9es%20spatiales%20sur%20le%20Web.pdf)
+ :fast_forward:[Télécharger le support pdf](https://github.com/bmericskay/SO-MATE/blob/main/Visualisation%20de%20donn%C3%A9es%20spatiales%20sur%20le%20Web.pdf)
 
 
 
