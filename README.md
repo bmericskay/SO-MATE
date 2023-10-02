@@ -1,4 +1,4 @@
-# SO-MATE - Introduction à la Géovisualisation de données pour la recherche
+# SO-MATE - Introduction à la Géovisualisation de données sur le Web pour la recherche
 
 ## Support de présentation
 
