@@ -11,8 +11,9 @@
 
 ### Environnements techniques
 
-https://kepler.gl/
-https://umap.openstreetmap.fr/fr/
+* https://kepler.gl/
+
+* https://umap.openstreetmap.fr/fr/
 
 ## Données du TD 
 
