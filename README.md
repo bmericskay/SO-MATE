@@ -15,6 +15,8 @@
 
 * https://umap.openstreetmap.fr/fr/
 
+* <a href="http://example.com/" target="_blank">Hello, world!</a>
+
 ## Données du TD 
 
 
