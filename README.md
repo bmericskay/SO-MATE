@@ -11,12 +11,13 @@
 
 ### Environnements techniques
 
-* https://kepler.gl/{:target="_blank"}
+* https://kepler.gl/
+* https://umap.openstreetmap.fr/fr/
 
 
 ## Données du TD 
 
-* Relais de postes (points)
+* [Relais de postes (points)](https://github.com/bmericskay/SO-MATE/blob/main/1_relaisPoste.geojson)
 * Réseau des relais de postes (lignes)
 * Communes de Bretagnes
 * Cartographie du bruit à Rennes
